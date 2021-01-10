@@ -1,0 +1,18 @@
+tabs not spaces.
+
+braces will be on a new line unless one line if statements where there is still else statements after it
+
+class Main()
+{
+    private int x;
+
+    public int styleGuide(int x)
+    {
+        if (x < 10)
+        {
+            this.x = x;
+        }
+
+        return (x + 10);
+    }
+}
